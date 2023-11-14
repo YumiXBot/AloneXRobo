@@ -231,7 +231,7 @@ __alt_name__ = ["approved"]
 
 
 __HELP__ = """
-**Apporve**
+**𝐀ᴘᴘᴏʀᴠᴇ**
 
 **Admin commands:**
 • /approval: Check a user's approval status in this chat.
